@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj": {}
+    "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj": {
+    "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj",
+        "projectUniqueName": "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker.csproj",
         "projectName": "FinanceTracker",
-        "projectPath": "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj",
+        "projectPath": "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker.csproj",
         "packagesPath": "C:\\Users\\nguyenxu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker\\obj\\",
+        "outputPath": "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
