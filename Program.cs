@@ -20,12 +20,14 @@ namespace FinanceTracker
     {
         static void Main()
         {
+            Console.CursorVisible = false;
 
     		int selected = 0;
-            while (true)
+            bool mainMenu = true;
+            while (mainMenu)
             {
     			UserInterface.DrawMainMenu(selected);
-                ConsoleKeyInfo key = Console.ReadKey(false);
+                ConsoleKeyInfo key = Console.ReadKey(true);
                 switch (key.Key)
                 {
                     case ConsoleKey.DownArrow:
@@ -33,6 +35,13 @@ namespace FinanceTracker
                         break;
                     case ConsoleKey.UpArrow:
                         selected--;
+                        break;
+                    case ConsoleKey.Enter:
+                        UserInterface.HandleUI();
+                        break;
+                    case ConsoleKey.Q:
+                        Console.Clear();
+                        mainMenu = false;
                         break;
                 }
             }
