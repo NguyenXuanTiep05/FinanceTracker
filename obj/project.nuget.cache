@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ePYJyn5ftro=",
+  "dgSpecHash": "YSM0K7Gh02Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nguyenxu\\OneDrive - SKB INDUSTRIEHOLDING GMBH\\Dokumenty\\Programming\\FinanceTracker\\FinanceTracker.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/peter/Programming_Projects/FinanceTracker/FinanceTracker.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
